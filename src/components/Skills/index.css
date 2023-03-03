@@ -1,0 +1,10 @@
+.skill-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+}
+.skill-size {
+  height: 70px;
+  margin-right: 10px;
+}

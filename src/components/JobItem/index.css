@@ -1,0 +1,41 @@
+.company-logo-size {
+  height: 50px;
+  margin-right: 10px;
+}
+.list-style {
+  color: white;
+  list-style-type: none;
+  font-size: 13px;
+  background-color: #272727;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.img-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.salary-container {
+  display: flex;
+  align-items: center;
+}
+.icon-style {
+  font-size: 25px;
+  margin-right: 10px;
+}
+.icon-container {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.salary {
+  font-size: 20px;
+  flex-grow: 1;
+  text-align: right;
+}
+.icon-style-star {
+  color: goldenrod;
+  font-size: 20px;
+  margin-right: 10px;
+}

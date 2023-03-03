@@ -1,0 +1,65 @@
+.company-logo-size {
+  height: 60px;
+}
+
+.skills-container {
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-right: 10px;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+
+.job-item-container {
+  background-color: black;
+  padding: 20px;
+}
+.list-style-job {
+  background-color: grey;
+}
+.life-container {
+  display: flex;
+  justify-content: space-between;
+}
+.life-size {
+  height: 100px;
+}
+.failure-container {
+  background-color: black;
+  padding: 20px;
+}
+.similar-items-container {
+  display: flex;
+  padding-left: 0px;
+}
+.loader-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.visit-container {
+  display: flex;
+  justify-content: space-between;
+}
+.anchor-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+  font-size: 20px;
+  margin-right: 20px;
+}
+.visit {
+  margin-right: 10px;
+}

@@ -1,0 +1,30 @@
+.header-logo-size {
+  height: 30px;
+}
+.header-bg-container {
+  background-color: #272727;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.home-job {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+}
+.home-job {
+  display: flex;
+  justify-content: center;
+}
+
+.list-style {
+  color: white;
+  font-weight: bold;
+  list-style-type: none;
+  margin-right: 10px;
+}
+.link-style {
+  text-decoration: none;
+}

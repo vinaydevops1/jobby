@@ -1,0 +1,77 @@
+.bg-container-jobs {
+  background-color: black;
+  width: 100vw;
+  height: 150vh;
+  box-sizing: border-box;
+}
+.search {
+  color: white;
+  font-size: 25px;
+
+  margin: 10px;
+}
+.search-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 400px;
+}
+.profile-side-container {
+  width: 350px;
+  padding: 20px;
+}
+.profile-jobs-container {
+  display: flex;
+  padding: 20px;
+}
+.profile-retry-container {
+  width: 300px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile-side-container {
+  padding-right: 20px;
+}
+.jobs-side-container {
+  max-height: 90vh;
+  background-color: black;
+  overflow-y: auto;
+  padding-left: 0px;
+}
+
+.jobs-list-container {
+  max-height: 40%;
+}
+.heading {
+  font-size: 20px;
+}
+.no-job-img {
+  height: 200px;
+  width: 300px;
+}
+.no-jobs-container {
+  width: 50vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-container {
+  border: 1px solid lightskyblue;
+  width: 250px;
+}
+.search-input {
+  width: 100%;
+  background-color: transparent;
+  padding: 10px;
+  outline: none;
+  border: none;
+}
+.button-search {
+  background-color: transparent;
+}
